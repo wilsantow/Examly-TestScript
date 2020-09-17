@@ -27,8 +27,14 @@ Then,
 Make sure the following are installed
 
 - jasmine-allure-reporter - `npm i jasmine-allure-reporter`
-- allure-commandline - `npm i allure-commandline`  **(requires java8 or higher)**
+- allure-commandline - `npm i allure-commandline` **(requires java8 or higher)**
 
 Then ,
 
 1. run `allure serve ../test-results`
+
+---
+
+### Troubleshooting
+
+- For Timeout errors modify the duration accordingly to the network speed.
