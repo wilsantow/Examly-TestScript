@@ -26,7 +26,7 @@ Then,
 
 Make sure the following are installed
 
-- jasmine-allure-reporter - `npm install -g protractor`
+- jasmine-allure-reporter - `npm i jasmine-allure-reporter`
 - allure-commandline - `npm i allure-commandline`
 
 Then ,
