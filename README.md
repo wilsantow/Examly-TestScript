@@ -20,14 +20,14 @@ Then,
 
 ---
 
-### Additionaly to view test results in browser
+### Additionally to view test results in browser
 
 ## Dependencies
 
 Make sure the following are installed
 
 - jasmine-allure-reporter - `npm i jasmine-allure-reporter`
-- allure-commandline - `npm i allure-commandline`
+- allure-commandline - `npm i allure-commandline`  **requires java8 or higher)**
 
 Then ,
 
