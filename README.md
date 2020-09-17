@@ -27,7 +27,7 @@ Then,
 Make sure the following are installed
 
 - jasmine-allure-reporter - `npm i jasmine-allure-reporter`
-- allure-commandline - `npm i allure-commandline`  **requires java8 or higher)**
+- allure-commandline - `npm i allure-commandline`  **(requires java8 or higher)**
 
 Then ,
 
