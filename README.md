@@ -1,8 +1,8 @@
-### Examly Login Test Script
+## Examly Login Test Script
 
-### Instructions to run tests
+## Instructions to run tests
 
-## Dependencies
+### Dependencies
 
 Make sure the following are installed
 
@@ -20,9 +20,9 @@ Then,
 
 ---
 
-### Additionally to view test results in browser
+## Additionally to view test results in browser
 
-## Dependencies
+### Dependencies
 
 Make sure the following are installed
 
