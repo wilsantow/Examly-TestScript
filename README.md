@@ -12,7 +12,7 @@ Make sure the following are installed
 
 Then,
 
-1. git clone https://github.com/wilsantow/Examly-TestScript.git
+1. `git clone https://github.com/wilsantow/Examly-TestScript.git`
 
 1. `cd Examly-TestScript/conf`
 
