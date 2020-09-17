@@ -31,4 +31,4 @@ Make sure the following are installed
 
 Then ,
 
-1. run `allure-serve ../test-results`
+1. run `allure serve ../test-results`
